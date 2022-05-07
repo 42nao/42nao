@@ -82,7 +82,7 @@ def calledzen():
 <h2>↬ Music <h2>
   <p align="left">
     
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2khveh903wr2hlgodcw0sexiv&count=3)
+  ![spotify lädt nd sorry](https://spotify-recently-played-readme.vercel.app/api?user=2khveh903wr2hlgodcw0sexiv&count=3)
   </p>
 
     
