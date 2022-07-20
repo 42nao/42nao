@@ -21,6 +21,9 @@ def calledzen():
   hobbys="soccer, coding, sleeping"
   interests="front- & backend, databases, ui design, maths"
   reallife_level="15"
+  
+  
+calledzen()
 ```
 
 <br>
