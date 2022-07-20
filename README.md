@@ -14,6 +14,8 @@ If you have any questions, feel free to contact me on Discord :)
 <br>
 
 ```python
+from threading import Thread
+
 def calledzen():
   name="calledzen"
   country="germany"
@@ -22,8 +24,8 @@ def calledzen():
   interests="front- & backend, databases, ui design, maths"
   reallife_level="15"
   
-  
-calledzen()
+t = Thread(target=calledzen)  
+t.start()
 ```
 
 <br>
