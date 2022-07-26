@@ -1,13 +1,10 @@
 
-<p align="center">
-  <img src="https://i.imgur.com/aYkXgkr.png"/>
-  
-</p>
+<h1>CALLEDNAO</h1>
 <br>
 <br>
 <br>
 <p align="center">
- Hey! I'm calledzen and I'm a young developer. I prefer to use the languages Java, Javascript and Python. On my Github page you can find some of my projects and information about me! 
+ Hey! I'm callednao and I'm a young developer. I prefer to use the languages Java, Javascript and Python. On my Github page you can find some of my projects and information about me! 
 If you have any questions, feel free to contact me on Discord :)
 </p>
 
@@ -16,15 +13,15 @@ If you have any questions, feel free to contact me on Discord :)
 ```python
 from threading import Thread
 
-def calledzen():
-  name="calledzen"
+def callednao():
+  name="callednao"
   country="germany"
   coding_since="2018"
   hobbys="soccer, coding, sleeping"
   interests="front- & backend, databases, ui design, maths"
   reallife_level="15"
   
-t = Thread(target=calledzen)  
+t = Thread(target=callednao)  
 t.start()
 ```
 
