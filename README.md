@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://thumbs.gfycat.com/SizzlingLeftAmericantoad-size_restricted.gif" alt="Sublime's custom image"/>
+  <img src="https://thumbs.gfycat.com/SizzlingLeftAmericantoad-size_restricted.gif" alt="CALLEDNAO"/>
 </p>
 
-<p align="center">
- ![](https://thumbs.gfycat.com/SizzlingLeftAmericantoad-size_restricted.gif)
-</p>
 <br>
 <br>
 <br>
