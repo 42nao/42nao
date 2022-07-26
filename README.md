@@ -1,4 +1,6 @@
-![](https://thumbs.gfycat.com/SizzlingLeftAmericantoad-size_restricted.gif)
+<p align="center">
+ ![](https://thumbs.gfycat.com/SizzlingLeftAmericantoad-size_restricted.gif)
+</p>
 <br>
 <br>
 <br>
