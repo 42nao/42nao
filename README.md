@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://thumbs.gfycat.com/SizzlingLeftAmericantoad-size_restricted.gif" alt="CALLEDNAO"/>
   <img src="https://i.imgur.com/Z122Rle.png" alt="CALLEDNAO"/>
 
 </p>
