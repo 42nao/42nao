@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://thumbs.gfycat.com/SizzlingLeftAmericantoad-size_restricted.gif" alt="CALLEDNAO"/>
-  <img src="https://i.imgur.com/NbJHneT.png" alt="CALLEDNAO"/>
+  <img width=50 src="https://i.imgur.com/NbJHneT.png" alt="CALLEDNAO"/>
 </p>
 
 <br>
