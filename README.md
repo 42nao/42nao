@@ -4,29 +4,10 @@
 </p>
 
 <br>
-<br>
-<br>
-<p align="center">
- Hey! I'm callednao and I'm a young developer. I prefer to use the languages Java, Javascript and Python. On my Github page you can find some of my projects and information about me! 
-If you have any questions, feel free to contact me on Discord :)
-</p>
+
+<h1 align="center">welcome to my github page!</h1>
 
 <br>
-
-```python
-from threading import Thread
-
-def callednao():
-  name="callednao"
-  country="germany"
-  coding_since="2018"
-  hobbys="soccer, coding, sleeping"
-  interests="front- & backend, databases, ui design, maths"
-  reallife_level="15"
-  
-t = Thread(target=callednao)  
-t.start()
-```
 
 <br>
 
