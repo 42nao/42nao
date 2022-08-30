@@ -32,8 +32,4 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?color=%237A40FF&style=for-the-badge&logo=discord&logoColor=white" alt=""/>
 </p>
 <br>
-<h2 align="center">「stats」</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?theme=tokyonight&username=callednao&show_icons=true&locale=de" alt="calledzen" />
-</p>
-.
+
