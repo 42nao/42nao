@@ -16,6 +16,7 @@
 <br>
 <h2 align="center" >「languages & other」</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?color=%237A40FF&style=for-the-badge&logo=dart&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/Java-ED8B00?color=%237A40FF&style=for-the-badge&logo=java&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/JavaScript-323330?color=%237A40FF&style=for-the-badge&logo=javascript&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/Python-758AAA?color=%237A40FF&style=for-the-badge&logo=Python&logoColor=white" alt=""/>
