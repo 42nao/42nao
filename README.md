@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  hi
+  <img src="https://github-readme-stats.vercel.app/api?username=callednao&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 </p>
 
 <h3 align="center">
