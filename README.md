@@ -3,10 +3,7 @@
 
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=callednao&show_icons=true&theme=gotham" alt="github stats" width="45%" height="20%"/>
-</p>
+<br>
 
 <h3 align="center">
   <img src="https://img.shields.io/github/followers/callednao?color=%237A40FF&style=for-the-badge" alt=""/>
