@@ -3,8 +3,10 @@
 
 </p>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
-    
+
+<p align="center">
+  hi
+</p>
 
 <h3 align="center">
   <img src="https://img.shields.io/github/followers/callednao?color=%237A40FF&style=for-the-badge" alt=""/>
