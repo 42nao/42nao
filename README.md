@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=callednao&color=7A40FF&style=for-the-badge" alt=""/> 
 </h3>
 <br>
-<h2 align="center" >「tech stack」</h2>
+<h2 align="center" >「tech」</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?color=%237A40FF&style=for-the-badge&logo=dart&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/Java-ED8B00?color=%237A40FF&style=for-the-badge&logo=java&logoColor=white" alt=""/>
