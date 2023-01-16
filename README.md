@@ -4,7 +4,7 @@
 </p>
 <br>
 <h3 align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/814113487542157352?theme=dark&bg=1a1b26&animated=false&hideDiscrim=true&borderRadius=15px" alt=""/>
+  <img src="https://lanyard-profile-readme.vercel.app/api/814113487542157352?theme=dark&bg=1a1b26&animated=true&hideDiscrim=true&borderRadius=15px" alt=""/>
   <br>
   <img src="https://img.shields.io/github/followers/callednao?color=%237A40FF&style=for-the-badge" alt=""/>
   <img src="https://komarev.com/ghpvc/?username=callednao&color=7A40FF&style=for-the-badge" alt=""/> 
